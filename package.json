@@ -1,5 +1,5 @@
 {
-    "name": "vue-cli初始化网站",
+    "name": "vue-cli-init",
     "version": "0.1.0",
     "private": true,
     "scripts": {
